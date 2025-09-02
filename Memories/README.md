@@ -12,8 +12,6 @@ This folder contains Verilog modules implementing different memory architectures
 
 
 
-iverilog -o <output_file> <memory_design.v> <testbench.v>
-vvp <output_file>
 
 ---
 
