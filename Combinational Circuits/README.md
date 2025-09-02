@@ -18,5 +18,9 @@ This directory contains Verilog HDL implementations of various combinational log
 All files contain design code in different Verilog styles: structural, behavioral, and dataflow
 
 
+---
+
+Contributions and improvements to this folder are welcome.
+
 
 
